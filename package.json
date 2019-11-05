@@ -1,0 +1,24 @@
+{
+  "name": "mybin",
+  "version": "1.0.0",
+  "description": "Something useful which I will add later owo",
+  "main": "bot.js",
+  "author": "MyBinGamer",
+  "dependencies": {
+    "@types/node": "^12.11.7",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.7.0",
+    "opusscript": "0.0.7",
+    "uws": "^100.0.1",
+    "winston": "^3.2.1",
+    "ytdl-core": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}

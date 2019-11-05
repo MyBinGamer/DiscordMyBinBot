@@ -1,0 +1,21 @@
+{
+     "compilerOptions": {
+         "baseUrl": ".",
+         "target": "es6",
+         "module": "commonjs",
+         "outDir": "mybin",
+         "removeComments": true,
+         "strict": true,
+         "skipLibCheck": true,
+         "noImplicitThis": true,
+         "strictNullChecks": false,
+         "inlineSourceMap": true,
+         "moduleResolution": "node"
+     },
+     "include": [
+         "src"
+     ],
+     "exclude": [
+         "node_modules"
+     ]
+}
