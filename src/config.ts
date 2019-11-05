@@ -1,5 +1,5 @@
 export let config = {
-    "token": "NjM2Mjc2Mjg1Njg0OTczNTc5.Xa9TSQ.78Ukkpe-bteDs5G2JuOiE4RPs_A",
+    "token": "BotToken here",
     "prefix": "?",
     "commands": [
         "testCommand",
